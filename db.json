@@ -1,4 +1,6 @@
 {
-  "users":[],
+  "users":[
+    {"name":"ravshan", "id":1}
+  ],
   "posts":[]
 }
